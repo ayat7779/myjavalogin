@@ -1,0 +1,15 @@
+# Compiled class files
+bin/
+out/
+target/
+*.class
+
+# IDE configurations
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Operating System Files
+.DS_Store
+Thumbs.db
